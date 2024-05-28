@@ -1,0 +1,5 @@
+--- original
++++ remediated
+@@ -1,0 +1,1 @@
++using MySql.Data.MySqlClient;
+ N/A
