@@ -1,0 +1,5 @@
+--- original
++++ remediated
+@@ -1,0 +1,1 @@
++using Mono.Data.Sqlite;
+ N/A
